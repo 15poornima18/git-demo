@@ -1,3 +1,5 @@
+//change in master branch
+
 class A3{
    static B obj;     //B=null,here B class will not load,B loaded when new keyword used
    static B test()    //here B is use as userdefined return data type

@@ -3,7 +3,7 @@ class A
   /*int v1;
   public static void main(String args[])
   {
-	  A pt=new A();
+	  A pt=new A();  //helloo
 	  A hj=new A();
 	  A s2=new A();
 	  
